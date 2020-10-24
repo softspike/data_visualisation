@@ -14,9 +14,6 @@ Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 <img src="https://user-images.githubusercontent.com/47834415/97064114-b70b0900-159b-11eb-8dd1-6925da333292.png" alt="indexmob_html" width="700" heigh="700"/>
     *the exact names from .csv have been applied (no renaming required)
 
-In total, the following desktop version has been created:
- 1.           An interactive visualisation.
-
 ## Technologies
 Project is created with:
 </br>
