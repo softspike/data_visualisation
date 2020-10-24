@@ -28,7 +28,7 @@ I find it easiest to use RStudio programming environment.
 
 2.	In the R studio envirnoment click app folder (point 1).
 
-<img src="https://user-images.githubusercontent.com/47834415/97095103-445d6480-1653-11eb-95dc-db8b842357e3.png" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/47834415/97095103-445d6480-1653-11eb-95dc-db8b842357e3.png" width="300" height="200"/>
 
 3.	Click app.R  + Run App (point 2 & 3).
 
