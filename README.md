@@ -62,4 +62,4 @@ The added Download button - allows the user to download filtered values <strong>
 
 Referring to the <strong>(figure 7)</strong>, the data table has been implement <strong>(point 1)</strong> to filter findings, by categories. Plus, ability expand the table based on the number of entries <strong>(point 2)</strong> and process search <strong>(point 3).</strong>
  
-<img src="https://user-images.githubusercontent.com/47834415/97090920-c9368700-162f-11eb-9dbd-1d3e9d3df0b6.png" alt="fig_7" width="450" heigh="500"/>
+<img src="https://user-images.githubusercontent.com/47834415/97090920-c9368700-162f-11eb-9dbd-1d3e9d3df0b6.png" alt="fig_7" width="450" height="500"/>
