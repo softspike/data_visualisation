@@ -18,7 +18,7 @@ Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 Project is created with:
 </br>
 * <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
-* <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="R" width="35" height="35"/> R studio (integrated development environment for R)
+* <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="R" width="120" height="35"/> R studio (integrated development environment for R)
 
 ## Setup
 
