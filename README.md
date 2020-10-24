@@ -18,7 +18,7 @@ Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 Project is created with:
 </br>
 * <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
-* <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="R" width="90" height="35"/> R studio (integrated development environment for R)
+* <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="R" width="95" height="35"/> R studio (integrated development environment for R)
 
 ## Setup
 
@@ -27,11 +27,10 @@ I find it easiest to use RStudio programming environment.
 1.Open data_visualisation folder, click bytk.Rproj, RStudio environment opens.
 
 2.	In the R studio envirnoment click app folder (point 1).
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
+<img src="https://user-images.githubusercontent.com/47834415/97095103-445d6480-1653-11eb-95dc-db8b842357e3.png" width="120" height="35"/> R language
 
 3.	Click app.R  + Run App (point 2 & 3).
-
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="120" height="35"/> R language
+<img src="https://user-images.githubusercontent.com/47834415/97095070-ce58fd80-1652-11eb-9d7e-10317496b449.png" width="120" height="35"/> R language
 
 
 ## Design
