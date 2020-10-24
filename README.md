@@ -22,11 +22,10 @@ Project is created with:
 </br>
 * <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
 
-install shiny
-Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
-
 ## Setup
 
+install shiny
+Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
 R dev environment
 
 Navigate to HTML file location static_website/structure, highlight the document and click Open.
