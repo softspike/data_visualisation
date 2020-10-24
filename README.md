@@ -43,9 +43,22 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
+<p>The data visualization “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” figure 1 (point 1) per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” (point 2).</p>
+
+<img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700" heigh="700"/>
+
+<p>In order to get the selected values displayed, the user has plenty of implemented data filtering options. By using sidebarPanel(); figure 1 (point 3). Select the stadium(s) by selecting their capacity. To filter stadiums by “Confederation” (point 4). Select, the text box, the dropdown box becomes displayed (figure 2). The user can add all 6 “Confederations” and filter their values. Additionally, the user has ability to filter by country, by selecting the check box (point
+5), the dropdown box becomes displayed (figure 3).</p>
+
+<img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="fig2_3" width="340" heigh="300"/>
+
+
+
+
+
 ### Home Page Desktop *css grid *css flexbox
 
-<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="340" heigh="300"/>
+
 
 ### Home Page Mobile set @768 px .css breakpoint
 <img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="67" heigh="300"/>
