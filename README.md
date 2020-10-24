@@ -43,8 +43,6 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
-
-
 The data visualisation “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” <strong> figure 1 (point 1)</strong> per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” <strong>(point 2)</strong>.
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700" heigh="700"/></div>
@@ -56,12 +54,12 @@ In order to get the selected values displayed, the user has plenty of implemente
 
 By combining “Confederation” & “Country” search options. Overall, gives the user more flexibility to compare. To make it realistic:```Note!!! If the user selects the country(ies) and the right, Confederation has not selected (figure 4 & 5). The program will display: 0 available stadiums```
 
-<img src="https://user-images.githubusercontent.com/47834415/97089524-3eee2300-162f-11eb-89c8-ce796f888419.png" alt="fig4_5" width="350" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/97089524-3eee2300-162f-11eb-89c8-ce796f888419.png" alt="fig4_5" width="450" heigh="400"/>
 
 The added Download button - allows the user to download filtered values <strong> figure 1 (point 6)</strong> in .csv format. By selecting the “Confederation”, the “Type” becomes displayed <strong> figure 6 (point 1)</strong>. Visually assists the user, especially, when more than one “Confederation” is selected and the results require filtering. The stacked histogram has been used for the reason, to display how a larger category is divided into smaller subcategories and what the relationship of each part has on the total amount <strong> figure 6(point 2)</strong>. e.g. delete the "UEFA" values and the numbers representing the "CAF"stadiums will drop to 20 stadiums.```Note!!! the program requires reset. If, the user selects the checkbox to filter stadiums by “country” and later on wants to return and search stadiums by the “Confederation”.```
 
-<img src="https://user-images.githubusercontent.com/47834415/97089740-4dd4d580-162f-11eb-8908-19ba2c93850d.png" alt="fig_6" width="750" heigh="700"/>
+<img src="https://user-images.githubusercontent.com/47834415/97089740-4dd4d580-162f-11eb-8908-19ba2c93850d.png" alt="fig_6" width="700" heigh="700"/>
 
 Referring to the <strong>(figure 7)</strong>, the data table has been implement <strong>(point 1)</strong> to filter findings, by categories. Plus, ability expand the table based on the number of entries <strong>(point 2)</strong> and process search <strong>(point 3).</strong>
  
-<img src="https://user-images.githubusercontent.com/47834415/97090920-c9368700-162f-11eb-9dbd-1d3e9d3df0b6.png" alt="fig_7" width="150" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/97090920-c9368700-162f-11eb-9dbd-1d3e9d3df0b6.png" alt="fig_7" width="450" heigh="400"/>
