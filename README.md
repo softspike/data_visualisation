@@ -31,7 +31,7 @@ I find it easiest to use RStudio programming environment.
 
 3.	Click app.R  + Run App (point 2 & 3).
 
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="120" height="35"/> R language
 
 
 ## Design
