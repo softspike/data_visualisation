@@ -43,13 +43,11 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
-p {
-    text-align: center;
-}
+
 
 <p>The data visualisation “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” <strong> figure 1 (point 1)</strong> per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” <strong>(point 2)</strong>.</p>
 
-<img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700" heigh="700"/>
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700" heigh="700"/></div>
 
 <p>In order to get the selected values displayed, the user has plenty of implemented data filtering options. By using sidebarPanel(); <strong> figure 1 (point 3)</strong>. Select the stadium(s) by selecting their capacity. To filter stadiums by “Confederation” <strong>(point 4)</strong>. Select, the text box, the dropdown box becomes displayed <strong>(figure 2)</strong>. The user can add all 6 “Confederations” and filter their values. Additionally, the user has ability to filter by country, by selecting the check box <strong>(point 5)</strong>, the dropdown box becomes displayed <strong>(figure 3)</strong>.</p>
 
