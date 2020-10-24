@@ -6,12 +6,12 @@
 
 ## General info
 
-The purpose of the visualisation project, was to select a dataset and carry out a simulation environment where the user could select stadiums “venues” to organise major events e.g. football tournaments.
+The purpose of the visualisation project, is to select a dataset and carry out a simulation environment where the user could select stadiums “venues” to organise major events e.g. football tournaments.
 
 1 Dataset - List of FIFA Football Stadiums (fifa_stadiums)
 Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 
-<img src="https://user-images.githubusercontent.com/47834415/97064114-b70b0900-159b-11eb-8dd1-6925da333292.png" alt="indexmob_html" width="67" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/97064114-b70b0900-159b-11eb-8dd1-6925da333292.png" alt="indexmob_html" width="300" heigh="300"/>
     *the exact names from .csv have been applied (no renaming required)
 
 In total, the following desktop version has been created:
