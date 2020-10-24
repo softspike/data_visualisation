@@ -11,7 +11,7 @@ The purpose of the visualisation project, is to select a dataset and carry out a
 1 Dataset - List of FIFA Football Stadiums (fifa_stadiums)
 Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 
-<img src="https://user-images.githubusercontent.com/47834415/97064114-b70b0900-159b-11eb-8dd1-6925da333292.png" alt="indexmob_html" width="300" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/97064114-b70b0900-159b-11eb-8dd1-6925da333292.png" alt="indexmob_html" width="700" heigh="700"/>
     *the exact names from .csv have been applied (no renaming required)
 
 In total, the following desktop version has been created:
@@ -20,7 +20,7 @@ In total, the following desktop version has been created:
 ## Technologies
 Project is created with:
 </br>
-* <img src="https://image.pngaaa.com/764/1525764-middle.png" alt="html5" width="35" height="35"/> HTML 5
+* <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
 
 install shiny
 Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
