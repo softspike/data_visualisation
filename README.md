@@ -24,15 +24,15 @@ Project is created with:
 
 I find it easiest to use RStudio programming environment.
 
-1.Open data_visualisation folder, click bytk.Rproj, RStudio environment opens.
+1. Open data_visualisation folder, click bytk.Rproj, RStudio environment opens.
 
 2.	In the R studio envirnoment click app folder (point 1).
 </br>
-<img src="https://user-images.githubusercontent.com/47834415/97095103-445d6480-1653-11eb-95dc-db8b842357e3.png" width="120" height="150"/>
+<img src="https://user-images.githubusercontent.com/47834415/97095103-445d6480-1653-11eb-95dc-db8b842357e3.png" width="300" height="300"/>
 
 3.	Click app.R  + Run App (point 2 & 3).
 </br>
-<img src="https://user-images.githubusercontent.com/47834415/97095070-ce58fd80-1652-11eb-9d7e-10317496b449.png" width="120" height="150"/>
+<img src="https://user-images.githubusercontent.com/47834415/97095070-ce58fd80-1652-11eb-9d7e-10317496b449.png" width="300" height="300"/>
 
 
 ## Design
