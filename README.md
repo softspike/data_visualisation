@@ -18,24 +18,21 @@ Retrieved from: (.csv): https://data.world/johayes13/football-soccer-stadiums
 Project is created with:
 </br>
 * <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
+* <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="R" width="35" height="35"/> R studio (integrated development environment for R)
 
 ## Setup
 
-install shiny
-Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
-R dev environment
+I find it easiest to use RStudio programming environment.
 
-Navigate to HTML file location static_website/structure, highlight the document and click Open.
+1.Open data_visualisation folder, click bytk.Rproj, RStudio environment opens.
 
-OR
+2.	In the R studio envirnoment click app folder (point 1).
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
 
-Run the web pages in the development mode, inside folder static_website/structure i.e.:
+3.	Click app.R  + Run App (point 2 & 3).
 
-command line:
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="35" height="35"/> R language
 
-`python -m SimpleHTTPServer`
-
-check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
