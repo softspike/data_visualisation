@@ -43,25 +43,28 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 ## Design
 
-<p>The data visualization “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” figure 1 (point 1) per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” (point 2).</p>
+<p>The data visualisation “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” figure 1 (point 1) per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” (point 2).</p>
 
 <img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700" heigh="700"/>
 
 <p>In order to get the selected values displayed, the user has plenty of implemented data filtering options. By using sidebarPanel(); figure 1 (point 3). Select the stadium(s) by selecting their capacity. To filter stadiums by “Confederation” (point 4). Select, the text box, the dropdown box becomes displayed (figure 2). The user can add all 6 “Confederations” and filter their values. Additionally, the user has ability to filter by country, by selecting the check box (point
 5), the dropdown box becomes displayed (figure 3).</p>
 
-<img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="fig2_3" width="340" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/97089220-49f48380-162e-11eb-8b1b-0468ee6994fe.png" alt="fig2_3" width="340" heigh="300"/>
 
+<p>By combining “Confederation” & “Country” search options. Overall, gives the user more flexibility to compare. To make it realistic:<strong> Note!!! If the user selects the country(ies) and the right, Confederation has not selected (figure 4 & 5). The program will display: 0 available stadiums</strong></p>
 
+<img src="https://user-images.githubusercontent.com/47834415/97089524-3eee2300-162f-11eb-89c8-ce796f888419.png" alt="fig4_5" width="350" heigh="300"/>
 
+The added Download button - allows the user to download filtered values figure 1 (point 6) in .csv format. By selecting the “Confederation”, the “Type” becomes displayed figure 6 (point 1). Visually assists the user, especially, when more than one “Confederation” is selected and the results require filtering. The stacked histogram has been used for the reason, to display how a larger category is divided into smaller subcategories and what the relationship of each
+part has on the total amount figure 6(point 2). e.g. delete the "UEFA" values and the numbers representing the "CAF"stadiums will drop to 20 stadiums.
+<strong>Note!!! the program requires reset. If, the user selects the checkbox to filter stadiums by “country” and later on wants to return
+and search stadiums by the “Confederation”.</strong></p>
 
-
-### Home Page Desktop *css grid *css flexbox
-
-
+<img src="https://user-images.githubusercontent.com/47834415/97089740-4dd4d580-162f-11eb-8908-19ba2c93850d.png" alt="fig_6" width="350" heigh="300"/>
 
 ### Home Page Mobile set @768 px .css breakpoint
-<img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="67" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="67" heigh="300"/>
 
 ### Study Page (Desktop & Mobile/set @768 px .css breakpoint)
 <img src="https://user-images.githubusercontent.com/47834415/96944050-b6a63b80-14d1-11eb-8849-db508a33b8e1.png" alt="research_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944065-c32a9400-14d1-11eb-8953-7e3d7586d8b9.png" alt="research_mobile" width="150" heigh="300"/>
