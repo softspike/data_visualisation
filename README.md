@@ -37,6 +37,8 @@ I find it easiest to use RStudio programming environment.
 
 ## Design
 
+<p align="center">
+
 The data visualisation “Guide to all major Football Stadiums” has been built using Stacked Histogram. A histogram is appropriate for summarizing the distribution of a numeric variable. The reason of choosing this type of histogram was to display the bars group ranges of values on the “x”-axis. To achieve, the “y”- axis integer values, displays the “Number of Stadiums” <strong> figure 1 (point 1)</strong> per capacity available in the selected country (or Confederation). It gives the ability to find the range by combining with the “x”- axis integer values, indicating the stadium “Capacity” <strong>(point 2)</strong>.
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/47834415/97089125-a60ad800-162d-11eb-92f1-65c6b3f01298.png" alt="fig1" width="700"/></div>
@@ -57,3 +59,5 @@ The added Download button - allows the user to download filtered values <strong>
 Referring to the <strong>(figure 7)</strong>, the data table has been implement <strong>(point 1)</strong> to filter findings, by categories. Plus, ability expand the table based on the number of entries <strong>(point 2)</strong> and process search <strong>(point 3).</strong>
  
 <img src="https://user-images.githubusercontent.com/47834415/97090920-c9368700-162f-11eb-9dbd-1d3e9d3df0b6.png" alt="fig_7" width="450" height="150"/>
+
+</p>
